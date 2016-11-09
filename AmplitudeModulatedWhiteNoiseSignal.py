@@ -1,8 +1,10 @@
-
-
+#!/usr/bin/env python
 """
 Amplitude Modulated white noise.
 """
+
+from __future__ import (absolute_import, division,
+                        print_function, unicode_literals)
 
 import numpy as np
 import scipy as sp
