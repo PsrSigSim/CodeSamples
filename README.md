@@ -2,6 +2,9 @@
 
 This is a collection of code snippets for the __Pulsar Signal Simulator__.
 
+This space is for testing, discussing, and brainstorming.
+As things mature, they should be moved to the [VersionZeroPointZero](https://github.com/PsrSigSim/VersionZeroPointZero) repository.
+
 ## Code and Edit Style
 
  * __Document your code__ - use comments and doc strings so others can follow along
